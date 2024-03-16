@@ -73,6 +73,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kayler-Rafa/Kayler-Rafa/output/snake.svg" alt="Snake animation" />
-
 ###
