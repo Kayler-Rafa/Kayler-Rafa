@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/rafa.dinizx?utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/dinizkz?utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:rafaeldinizcruz@gmail.com" target="_blank">
