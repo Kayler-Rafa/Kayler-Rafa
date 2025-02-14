@@ -36,9 +36,9 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, resolução de pro
 
 ### 🎉 Projetos em Destaque
 
-- 💻 **[App de Consulta de CEP](https://github.com/Kayler-Rafa/cep-app)** - Um app mobile feito com Kotlin e Jetpack Compose para busca de endereços via API do ViaCEP.
-- ⚖️ **[Sistema Distribuído Simulado](https://github.com/Kayler-Rafa/sd-simulation)** - Projeto de simulação de linha de produção usando Python e Threads.
-- 🛠️ **[Automatização de Testes com GitHub Actions](https://github.com/Kayler-Rafa/test-actions)** - Configuração de CI/CD para testes automatizados.
+- 💻 **[App de Consulta de CEP](https://github.com/Kayler-Rafa/viaCEP)** - Um app mobile feito com Kotlin e Jetpack Compose para busca de endereços via API do ViaCEP.
+- ⚖️ **[Sistema Distribuído Simulado](https://github.com/Kayler-Rafa/Miniprojeto2)** - Projeto de simulação de linha de produção usando Python e Threads.
+- 🛠️ **[Automatização de Testes com GitHub Actions](https://github.com/Kayler-Rafa/Pipeline)** - Configuração de CI/CD para testes automatizados.
 
 ---
 
