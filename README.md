@@ -6,8 +6,8 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, resolução de pro
 
 ### 💡 Sobre Mim
 
-- 🛠️ Atualmente aprimorando minhas habilidades em **Kotlin, Node.js e desenvolvimento distribuído**.
-- 📚 Explorando projetos de **prototação, automação de testes e sistemas distribuídos**.
+- 🛠️ Atualmente aprimorando minhas habilidades em **Kotlin, Node.js, IA, Big Data e Sistemas Distribuídos**.
+- 📚 Explorando projetos de **prototipação, automação de testes e sistemas distribuídos**.
 - 🌟 Apaixonado por **open-source, desenvolvimento mobile e arquitetura de software**.
 
 ---
@@ -40,6 +40,7 @@ Sou um desenvolvedor em formação apaixonado por tecnologia, resolução de pro
 - 💻 **[App de Consulta de CEP](https://github.com/Kayler-Rafa/viaCEP)** - Um app mobile feito com Kotlin e Jetpack Compose para busca de endereços via API do ViaCEP.
 - ⚖️ **[Sistema Distribuído Simulado](https://github.com/Kayler-Rafa/Miniprojeto2)** - Projeto de simulação de linha de produção usando Python e Threads.
 - 🛠️ **[Automatização de Testes com GitHub Actions](https://github.com/Kayler-Rafa/Pipeline)** - Configuração de CI/CD para testes automatizados.
+- 🤖 **[Assistente Virtual em Python](https://github.com/Kayler-Rafa/Virtual_Assist_Python)** - Um assistente virtual inteligente criado com Python, capaz de responder comandos de voz e interagir com o usuário.
 
 ---
 
